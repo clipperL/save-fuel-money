@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "经典咖啡",
+    "discount": "第二杯半价",
+    "valid_until": "2025-12-31",
+    "description": "每日新鲜烘焙",
+    "submitter": "系统初始化"
+  },
+  {
+    "id": 2,
+    "name": "三明治套餐",
+    "discount": "立减5元",
+    "valid_until": "2025-11-30",
+    "description": "含饮料一份",
+    "submitter": "系统初始化"
+  }
+]
